@@ -1,0 +1,5 @@
+terraform.tfvars
+override.tf
+aws-remote-tfstate-s3.tf
+.terraform
+.terraform.lock.hcl
