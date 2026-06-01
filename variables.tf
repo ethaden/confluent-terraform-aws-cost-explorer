@@ -45,6 +45,6 @@ variable "resource_prefix" {
 
 variable "cost_limit" {
     type = number
-    default = 100
+    default = 150
     description = "An upper limit for the total cost. Used for reports"
 }
